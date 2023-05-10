@@ -10,8 +10,10 @@ I’m a Graduate Software and Security Engineer at a company called [Internet 2.
     <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kludron&layout=compact&theme=vue-dark" />
   </a>
 </div>
-  
-<img align="center" width=100% src="https://lukewarmsecurityinfo.com/assets/img/logos/Blue+Grey+White%20on%20Dark.png" />
+
+<a href="https://lukewarmsecurityinfo.com">
+  <img align="center" width=100% src="https://lukewarmsecurityinfo.com/assets/img/logos/Blue+Grey+White%20on%20Dark.png" />
+</a>
 
 <!--
 **Kludron/Kludron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
