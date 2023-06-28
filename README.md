@@ -5,14 +5,14 @@ I’m a Graduate Software and Security Engineer at a company called [Internet 2.
 
 <div align="center">
   <a href="#">
-    <img align="center" height=250 src="https://github-readme-stats.vercel.app/api?username=kludron&count_private=true&include_all_commits=false&theme=vue-dark&hide_rank=true" />
+    <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=kludron&count_private=true&include_all_commits=false&theme=vue-dark&hide_rank=true" />
   </a>
   <a href="#">
-    <img align="center" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kludron&theme=vue-dark&layout=donut" />
+    <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kludron&theme=vue-dark&layout=donut" />
   </a>
   <br /> <br />
   <a href="https://lukewarmsecurityinfo.com">
-    <img align="center" height=500 src="https://lukewarmsecurityinfo.com/assets/img/logos/Blue+Grey+White%20on%20Dark.png" border=10 />
+    <img align="center" height=400 src="https://lukewarmsecurityinfo.com/assets/img/logos/Blue+Grey+White%20on%20Dark.png" border=10 />
   </a>
 </div>
 <!--
